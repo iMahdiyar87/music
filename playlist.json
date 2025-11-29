@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "سفر به ستارگان",
+    "artist": "نام شما",
+    "cover_url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=1740",
+    "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "طلوع در صحرا",
+    "artist": "نام شما",
+    "cover_url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=1772",
+    "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "آرامش شب",
+    "artist": "نام شما",
+    "cover_url": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=1887",
+    "audio_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  }
+]
